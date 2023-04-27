@@ -495,9 +495,7 @@ Check the sample app https://github.com/shrikanth7698/ChatView/tree/master/app
 
 ### License
 ```
-MIT License
-
-Copyright (c) 2018 Shrikanth Ravi
+MIT License 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
